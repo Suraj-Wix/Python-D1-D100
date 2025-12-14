@@ -42,13 +42,14 @@
 ✔️ Day 80 → Data Science Libraries  
 ✔️ Day 100 → Final Project & Portfolio  
 
----
+----
 
 ##  Contributing  
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.  
 ##  License  
 This repository is licensed under the MIT License.  
 ###  Don’t forget to **star** this repo if you find it helpful!  
+
 
 
 
