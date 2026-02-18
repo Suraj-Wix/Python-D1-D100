@@ -1,4 +1,4 @@
-# -|Python Day1 to Day100|-
+Python Day1 to Day100
 **100 Days of Python Challenge** – A structured roadmap to master Python from beginner to advanced in 100 days. Learn the fundamentals, build real-world projects, and explore data science, web development, and machine learning with Python.
 
 ##  What You’ll Learn  
@@ -49,6 +49,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ##  License  
 This repository is licensed under the MIT License.  
 ###  Don’t forget to **star** this repo if you find it helpful!  
+
 
 
 
